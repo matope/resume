@@ -54,6 +54,8 @@
 ### Go
 - slide: [Introduction to context package](https://go-talks.appspot.com/github.com/matope/talks/2016/context/context.slide#1) (in Japanese / talk as a indivisual) (2016/08/08)
   - Introduced new package "context" that was introduced in Go1.7 at "Go1.7 Release Party in Tokyo".
+- [mercari\.go \#12 go\-circuitbreakerのご紹介 \- Speaker Deck](https://speakerdeck.com/matope/mercari-dot-go-number-12-go-circuitbreakerfalsegoshao-jie)
+  - at mercari.go #12 (December/06/2019)
 
 ### Cassandra
 

@@ -48,6 +48,8 @@
 ### Go
 - slide: [context パッケージの紹介](https://go-talks.appspot.com/github.com/matope/talks/2016/context/context.slide#1) (個人としての登壇) (2016/08/08)
   - [Go 1.7 Release Party in Tokyo](https://gocon.connpass.com/event/37332/) にて、新パッケージの context の意義と使い方を解説した。
+- [mercari\.go \#12 go\-circuitbreakerのご紹介 \- Speaker Deck](https://speakerdeck.com/matope/mercari-dot-go-number-12-go-circuitbreakerfalsegoshao-jie)
+  - 2019年12月6日 mercari.go #12 にて
 
 ### Cassandra
 
