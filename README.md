@@ -23,7 +23,7 @@
 
 ## 職務経歴
 
-### ヤフー株式会社 (2008/4-)
+### ヤフー株式会社 (2008/4 - )
 
 - 2008年、ヤフー入社。システム統括本部でID関連システムの開発に関わるが、2009年下半期にオブジェクトストレージの内製プロジェクトの立ち上げに参加。参加2年目以降はコア部分の設計に携わる。
 - 2012年ごろ、分散KVS (いわゆるNoSQL)データベースの導入プロジェクトの立ち上げに参加。OSSの分散データベースの性能検証などを担当。Apache Cassandraの導入後はクラスタ運用上のトラブルシューティングなどをサポート。
@@ -31,6 +31,15 @@
     - Go言語と Cassandra を使い、S3互換API を提供するコンセプトを決定。
     - 2016年1月にローンチ。以降も安全性やパフォーマンスの改善に取り組む。ヤフーのほとんどのサービスから利用され、2017年11月時点で200億個、11ペタバイトのオブジェクトを安定してストア。
 -  2018年下半期、他部署に異動。Webセキュリティ関連ライブラリの保守担当に配属
+
+### メルペイ (2019/09 - )
+
+- 2019年メルペイに入社、IDプラットフォームに配属
+  - [mercari/go\-circuitbreaker](https://github.com/mercari/go-circuitbreaker) を開発。（[解説](https://speakerdeck.com/matope/mercari-dot-go-number-12-go-circuitbreakerfalsegoshao-jie)）
+
+### フリーランス(2021/1 - )
+
+- 2020年にメルペイを退社。2021年からフリーランス
 
 以上
 
@@ -101,6 +110,8 @@
     - [Goでnet/httpを使う時のこまごまとした注意 \- Qiita](https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18)
     - [LevelDBの設計ドキュメント和訳 \- Qiita](https://qiita.com/ono_matope/items/f4c248d926f854f9034d)
     - [JSON Web Encryption \(JWE\) の解説 \- Qiita](https://qiita.com/ono_matope/items/938a98fb111a297b68b9)
+- zenn
+    - [退屈なURLクエリパースは gorilla/schema にやらせよう](https://zenn.dev/ono_matope/articles/b39f969cfa1754)
 
 # スキル・経験・得意なこと
 

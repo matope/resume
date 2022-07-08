@@ -32,13 +32,22 @@
 
 ## Work experience
 
-### Yahoo! JAPAN (2008 - Present)
+### Yahoo! JAPAN (2008 - )
 
 - Joined a project to develop a Object Storage as a jounior engineer. (2009-)
 - Joined a project to introduce NoSQL distributed database to the company. I had some performance surveys for some Open Source database software. After the introduction of Cassandra, I supported trouble shootings to solve problems happen in the operation. (2012-)
 - Designed and developped "Dragon" a new object storage as a tech lead of a small team (2014-).
     - After the launch in Jan 2016, continued to improve the product.
     - Dragon was storing over 11PB and 20Billion objects as at Nov 2017.
+
+### Merpay (2019 - 2020)
+
+- Joined to Merpay as an ID platform developer.
+  - Released [mercari/go\-circuitbreaker](https://github.com/mercari/go-circuitbreaker) as an OSS（[detail](https://speakerdeck.com/matope/mercari-dot-go-number-12-go-circuitbreakerfalsegoshao-jie)）
+
+### Freelance( 2021 - )
+
+- Started working as an freelance engineer since 2021.
 
 ## Publications
 
@@ -114,3 +123,5 @@
     - [Goでnet/httpを使う時のこまごまとした注意 \- Qiita](https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18)
     - [LevelDBの設計ドキュメント和訳 \- Qiita](https://qiita.com/ono_matope/items/f4c248d926f854f9034d)
     - [JSON Web Encryption \(JWE\) の解説 \- Qiita](https://qiita.com/ono_matope/items/938a98fb111a297b68b9)
+- zenn.dev articles
+    - [退屈なURLクエリパースは gorilla/schema にやらせよう](https://zenn.dev/ono_matope/articles/b39f969cfa1754)
