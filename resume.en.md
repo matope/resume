@@ -1,7 +1,5 @@
 # Resume
 
-(W.I.P.)
-
 ## Profile
 
 - Name: Yasuharu Goto (後藤 泰陽)
