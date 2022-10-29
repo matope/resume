@@ -3,7 +3,7 @@
 ## Profile
 
 - Name: Yasuharu Goto (後藤 泰陽)
-- Birthday: 10/29/1984
+- Date of birth: October 29th, 1984
 - Education: Hosei University (Tokyo, Japan) 2004-2007
   - Bachelor of Computer Science
 - Social media:
